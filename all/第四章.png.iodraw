@@ -161,7 +161,7 @@
         <mxCell id="9MF5Ei0Qbuhs0L3u7Hg4-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;从&lt;font style=&quot;&quot; face=&quot;Comic Sans MS&quot;&gt; &lt;/font&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;red &lt;/font&gt;&lt;/i&gt;中选择属性&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="569.5" y="1016.5" width="162" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="9MF5Ei0Qbuhs0L3u7Hg4-29" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;b&gt;red&amp;nbsp;= red - {a}&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;strokeColor=#E5CCFF;" vertex="1" parent="1">
+        <mxCell id="9MF5Ei0Qbuhs0L3u7Hg4-29" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i&gt;red&amp;nbsp;= red - &lt;/i&gt;{&lt;i&gt;a&lt;/i&gt;}&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;strokeColor=#E5CCFF;" vertex="1" parent="1">
           <mxGeometry x="569.5" y="1079.5" width="214.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="9MF5Ei0Qbuhs0L3u7Hg4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9MF5Ei0Qbuhs0L3u7Hg4-31" target="9MF5Ei0Qbuhs0L3u7Hg4-29">
