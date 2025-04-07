@@ -17,6 +17,10 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="189" y="320" as="sourcePoint" />
             <mxPoint x="292" y="254" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="292" y="217" />
+              <mxPoint x="293" y="217" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="P-0Hspxxr74woqYB4GDs-4" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="P-0Hspxxr74woqYB4GDs-1" edge="1">
