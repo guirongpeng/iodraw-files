@@ -247,7 +247,7 @@
         <mxCell id="U0340djJv3qCKsD6Wikk-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数值型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="200.25" y="920" width="105.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U0340djJv3qCKsD6Wikk-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;mixed&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#F8CECC;" vertex="1" parent="1">
+        <mxCell id="U0340djJv3qCKsD6Wikk-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;混合型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="335.5" y="920" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U0340djJv3qCKsD6Wikk-9" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;strokeColor=#007FFF;" edge="1" parent="1">
